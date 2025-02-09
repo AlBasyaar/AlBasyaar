@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
 <h3 align="center">A passionate website developer</h3>
 
-- 🔭 I’m currently School on **SMKN 69 JAKARTA SIJA(Sistem Informatika Jaringan dan Aplikasi)**      - ![Image](https://github.com/user-attachments/assets/cc73e4a9-acfd-4ca3-a5ce-45e4ebae865c)
-
+- 🔭 I’m currently School on **SMKN 69 JAKARTA SIJA(Sistem Informatika Jaringan dan Aplikasi)**
+  
 - 🌱 I’m currently learning **node js dan javascript**
 
 - 💬 Ask me about **IT And Programming**
