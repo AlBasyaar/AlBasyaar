@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **lakalbasyar256@gmail.com**
 
+- ![Image](https://github.com/user-attachments/assets/f650f2c5-d6b0-492b-ba9e-a7e6f6adedc9)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/basysyaar-alyassaar-nuur-qodaar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basysyaar-alyassaar-nuur-qodaar/" height="30" width="40" /></a>
