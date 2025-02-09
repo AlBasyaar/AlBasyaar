@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
 <h3 align="center">A passionate website developer</h3>
-- ![Image](https://github.com/user-attachments/assets/f650f2c5-d6b0-492b-ba9e-a7e6f6adedc9)
 
 - 🔭 I’m currently School on **SMKN 69 JAKARTA SIJA(Sistem Informatika Jaringan dan Aplikasi)**                                   
 
@@ -9,6 +8,7 @@
 - 💬 Ask me about **IT And Programming**
 
 - 📫 How to reach me **lakalbasyar256@gmail.com**
+-  ![Image](https://github.com/user-attachments/assets/f650f2c5-d6b0-492b-ba9e-a7e6f6adedc9)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
