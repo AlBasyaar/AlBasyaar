@@ -8,7 +8,6 @@
 - 💬 Ask me about **IT And Programming**
 
 - 📫 How to reach me **lakalbasyar256@gmail.com**
-- https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
