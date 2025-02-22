@@ -62,6 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=basyar-anq&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyar-anq&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basyar-anq&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
 </p>
