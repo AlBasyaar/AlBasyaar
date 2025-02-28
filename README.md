@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/1a7542bc-5725-428e-b563-9db59505d4d9" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=435&lines=Hi,+I'm+BASYSYAAR+AL+YASSAAR+NUUR+QODAAR" alt="Typing Animation" />
 </h1>
 
