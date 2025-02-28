@@ -1,6 +1,6 @@
-<h1 align="center" style="background-color: transparent;">
+<h1 align="center" style="background-color: transparent; margin: 0;">
   <span style="vertical-align: middle;">Hi</span>
-  <img src="https://github.com/user-attachments/assets/1553a2bc-b2d6-4ec5-9ba0-af183cc13829" width="35" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/1553a2bc-b2d6-4ec5-9ba0-af183cc13829" width="35" style="vertical-align: middle; background-color: transparent;">
   <span style="vertical-align: middle;">I'm BASYSYAAR AL YASSAAR NUUR QODAAR</span>
 </h1>
 
