@@ -1,6 +1,7 @@
 <h1 align="center">
+  <span style="vertical-align: middle;">Hi</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">Hi, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</span>
+  <span style="vertical-align: middle;">I'm BASYSYAAR AL YASSAAR NUUR QODAAR</span>
 </h1>
 
 <h3 align="center">
