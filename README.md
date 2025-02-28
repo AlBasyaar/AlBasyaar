@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CBB17&width=435&lines=A+Passionate+Website+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=A+Passionate+Website+Developer" alt="Typing Animation" />
 </h3>
 
 <p align="center">
