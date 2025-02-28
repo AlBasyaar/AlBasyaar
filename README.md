@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+BASYSYAAR+AL+YASSAAR+NUUR+QODAAR" alt="Typing Animation" />
+  <img src="
+  <img src="![waving-hello](https://github.com/user-attachments/assets/9da3ea8f-808e-467d-94bf-f58416db3a2c)"width="35">+I'm+BASYSYAAR+AL+YASSAAR+NUUR+QODAAR" alt="Typing Animation" />
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CBB17&width=435&lines=A+Passionate+Website+Developer" alt="Typing Animation" />
@@ -39,3 +40,5 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> </a>
 </p>
+
+
