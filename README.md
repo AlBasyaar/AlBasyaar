@@ -1,16 +1,15 @@
 <h1 align="center">
-  <img src="
-  <img src="![waving-hello](https://github.com/user-attachments/assets/9da3ea8f-808e-467d-94bf-f58416db3a2c)"width="35">+I'm+BASYSYAAR+AL+YASSAAR+NUUR+QODAAR" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&width=500&lines=Hi+%F0%9F%91%8B%F0%9F%92%A6%2C+I'm+BASYSYAAR+AL+YASSAAR+NUUR+QODAAR" alt="Typing Animation" />
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CBB17&width=435&lines=A+Passionate+Website+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CBB17&center=true&width=500&lines=A+Passionate+Website+Developer" alt="Typing Animation" />
 </h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" alt="Profile Image" width="600"/>
 </p>
 
-## About Me
+## 🔥 About Me
 - 🎓 Currently studying at **SMKN 69 JAKARTA SIJA (Sistem Informatika Jaringan dan Aplikasi)**
 - 🌱 Currently learning **Node.js & JavaScript**
 - 💬 Ask me about **IT and Programming**
@@ -18,7 +17,7 @@
 
 ---
 
-## Connect With Me:
+## 🚀 Connect With Me:
 <p align="center">
   <a href="https://instagram.com/basyar_anq" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -40,5 +39,3 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> </a>
 </p>
-
-
