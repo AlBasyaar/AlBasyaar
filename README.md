@@ -1,46 +1,52 @@
 ## Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
 
-**Front-End Developer & Student from Indonesia**  
+**Front-End Developer & Student from Indonesia**
 
 - 🎓 I’m currently studying at **SMKN 69 JAKARTA - SIJA (Sistem Informatika Jaringan dan Aplikasi)**  
 - 🌱 Currently learning **Node.js & JavaScript**  
 - 💬 Ask me about **IT and Programming**  
-- 📫 How to reach me: **lakalbasyar256@gmail.com**
+- 📫 Reach me at **lakalbasyar256@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/basyar_anq)
 
 ---
 
-### 🛠️ Languages and Tools:
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)  
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)  
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
+### 🛠️ Languages and Tools
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ---
 
-### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+
+### 📊 GitHub Stats
 
 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
 
 **GitHub Stats Overview**  
-![AlBasyaar's Stats](https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
 
 **Streak Stats**  
-![AlBasyaar's Streak](https://streak-stats.demolab.com?user=AlBasyaar&theme=blueberry&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=AlBasyaar&theme=blueberry&hide_border=false" />
 
----
-
-### 👨‍💻 Preview
-![Profile Image](https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff)
+</td>
+<td>
+  <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="300px" alt="Profile Picture" />
+</td>
+  </tr>
+</table>
