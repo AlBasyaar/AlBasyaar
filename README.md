@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-    
+
 ## Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
 
 **Front-End Developer & Student from Indonesia**
@@ -38,9 +38,9 @@
 <img src="https://streak-stats.demolab.com?user=AlBasyaar&theme=blueberry&hide_border=false" width="400"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="400"/>
 
-    </td>
+</td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="280px" alt="Profile Picture" style="border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="280px" alt="Profile Picture" style="border: none;">
     </td>
   </tr>
 </table>
