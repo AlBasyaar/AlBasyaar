@@ -4,7 +4,7 @@
 
 ## Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
 
-**Front-End Developer & Student from Indonesia**
+**Back Developer from Indonesia**
 
 - 🎓 I’m currently studying at **SMKN 69 JAKARTA - SIJA (Sistem Informatika Jaringan dan Aplikasi)**  
 - 🌱 Currently learning **Node.js & JavaScript**  
