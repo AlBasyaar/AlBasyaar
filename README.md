@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td valign="top">
 
 ## Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
 
@@ -39,7 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="400"/>
 
 </td>
-<td align="center">
+<td align="top">
   <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="300px" alt="Profile Picture" style="border: none;" />
 </td>
   </tr>
