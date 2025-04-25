@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
-<h3 align="center">Passionate Website Developer & Student from Indonesia</h3>
+<h3 align="center"> A Passionate Website Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff">
 
 <p align="left">
