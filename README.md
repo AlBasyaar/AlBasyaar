@@ -40,7 +40,7 @@
 
 </td>
 <td align="center">
-  <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="300px" alt="Profile Picture" />
+  <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="300px" alt="Profile Picture" style="border: none;" />
 </td>
   </tr>
 </table>
