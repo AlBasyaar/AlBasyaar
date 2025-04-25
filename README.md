@@ -1,4 +1,4 @@
-<table style="border: none;">
+<table>
   <tr>
     <td width="60%" valign="top">
 
@@ -40,7 +40,7 @@
 
 </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="280px" alt="Profile Picture">
+      <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="280px" alt="Profile Picture" style="border: none;">
     </td>
   </tr>
 </table>
