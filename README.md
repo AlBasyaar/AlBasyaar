@@ -1,10 +1,11 @@
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<h1 align="center">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
+<h3 align="center">Front-End Developer & Student from Indonesia</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff">
 
-## Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
-
-**Front-End Developer & Student from Indonesia**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlBasyaar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/AlBasyaar?label=Followers&style=social" alt="followers" />
+</p>
 
 - 🎓 I’m currently studying at **SMKN 69 JAKARTA - SIJA (Sistem Informatika Jaringan dan Aplikasi)**  
 - 🌱 Currently learning **Node.js & JavaScript**  
@@ -37,10 +38,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&count_private=true" width="400"/>  
 <img src="https://streak-stats.demolab.com?user=AlBasyaar&theme=blueberry&hide_border=false" width="400"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="400"/>
-
-</td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/b25dd2ad-3513-41e6-9d8c-6acead2325ff" width="280px" alt="Profile Picture" style="border: none;">
-    </td>
-  </tr>
-</table>
