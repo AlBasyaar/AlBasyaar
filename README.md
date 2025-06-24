@@ -40,6 +40,3 @@
 <img src="https://streak-stats.demolab.com?user=AlBasyaar&theme=blueberry&hide_border=false" width="400"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=blueberry&show_icons=true&hide_border=false&layout=compact" width="400"/>
 
-<!-- Ganti URL-GAMBAR-BARU dengan link gambar valid Anda -->
-<img src="URL-GAMBAR-BARU" alt="GitHub Stats Banner" width="400"/>
-
