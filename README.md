@@ -9,7 +9,7 @@
 </p>
 
 - 🎓 I’m currently studying at **SMKN 69 JAKARTA - SIJA (Sistem Informatika Jaringan dan Aplikasi)**  
-- 🌱 Currently learning **react & PHP**  
+- 🌱 Currently learning **React & Express**  
 - 💬 Ask me about **IT and Programming**  
 - 📫 How to reach me: **lakalbasyar256@gmail.com**
 
