@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on e-commerce website<br><br>
 🌱 I’m currently learning React Js & Typescript<br><br>
-👨‍💻 All of my projects are available at **basysyaar.vercel.app**<br><br>
+👨‍💻 All of my projects are available at **[basysyaar.vercel.app](https://basysyaar.vercel.app)**<br><br>
 📫 How to reach me **basysyaar.anq@gmail.com**
 
 ## 🌐 Socials:
@@ -49,4 +49,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AlBasyaar&icon=0&color=0)](https://visitcount.itsvg.in)
-
