@@ -5,8 +5,8 @@
 
 </div>
 
-🔭 I’m currently working on e-commerce website<br><br>
-🌱 I’m currently learning React Js & Typescript<br><br>
+🔭 I’m currently working on **e-commerce website**<br><br>
+🌱 I’m currently learning **React Js & Typescript**<br><br>
 👨‍💻 All of my projects are available at **[basysyaar.vercel.app](https://basysyaar.vercel.app)**<br><br>
 📫 How to reach me **basysyaar.anq@gmail.com**
 
