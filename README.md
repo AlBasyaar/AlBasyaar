@@ -1,6 +1,8 @@
-<h1 align="left">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif" alt="Night Coding" width="400" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif" alt="Night Coding" width="100%" />
+<h1 align="left">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
 
 <h3 align="left">A Passionate Web Developer from Indonesia</h3>
 
