@@ -41,18 +41,3 @@
 ![GitHub](https://img.shields.io/badge/github-121011?logo=github&logoColor=white&style=flat)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white&style=flat)
 
----
-
-## 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=shadow_blue&hide_border=true"
-  height="150"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&layout=compact&theme=shadow_blue&hide_border=true"
-  height="150"
-/>
-
----
-
-<!-- Proudly created with GPRM -->
