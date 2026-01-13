@@ -8,7 +8,8 @@
 <img
   align="right"
   src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif"
-  width="340"
+  width="320"
+  style="margin-left: 20px; margin-bottom: 20px;"
 />
 
 ## 👨‍💻 About Me
