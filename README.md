@@ -1,9 +1,3 @@
-<img 
-  align="right"
-  src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif"
-  width="350"
-/>
-
 <div align="center">
 
 # Hi 👋, I'm **BASYSYAAR AL YASSAAR NUUR QODAAR**  
@@ -13,19 +7,19 @@
 
 🔭 I’m currently working on **e-commerce website**<br><br>
 🌱 I’m currently learning **React Js & Typescript**<br><br>
-👨‍💻 All of my projects are available at  
-**[basysyaar.vercel.app](https://basysyaar.vercel.app)**<br><br>
-📫 How to reach me  
-**basysyaar.anq@gmail.com**
+👨‍💻 All of my projects are available at **[basysyaar.vercel.app](https://basysyaar.vercel.app)**<br><br>
+📫 How to reach me **basysyaar.anq@gmail.com**
 
----
+<img 
+  align="right"
+  src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif"
+  width="350"
+/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basyar_anq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basysyaar)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lakalbasyar)
-
----
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,17 +44,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AlBasyaar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=tokyonight&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlBasyaar&theme=radical&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AlBasyaar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
