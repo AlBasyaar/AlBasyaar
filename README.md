@@ -29,15 +29,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,php,laravel,mysql,tailwind,bootstrap,vite,vercel,git,github,figma,canva&perline=7" />
 </p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=shadow_blue&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&layout=compact&theme=shadow_blue&hide_border=true"
-    height="160"
-  />
-</p>
