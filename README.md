@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif" alt="Night Coding" width="400" />
 </div>
 
-<h1 align="left">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
+<h1 align="center">Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
 
-<h3 align="left">A Passionate Web Developer from Indonesia</h3>
+<h3 align="center">A Passionate Web Developer from Indonesia</h3>
 
 <h3 align="left">About me</h3>
 <p align="left">
