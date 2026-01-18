@@ -17,8 +17,6 @@
   <a href="mailto:basysyaar.anq@gmail.com">basysyaar.anq@gmail.com</a><br>
 </p>
 
-<br
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlBasyaar/AlBasyaar/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
