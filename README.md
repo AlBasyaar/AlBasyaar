@@ -4,7 +4,7 @@
   <h3>A Passionate Web Developer from Indonesia 🇮🇩</h3>
 </div>
 
-### 🔍 About me
+### About me
 <p align="left">
   | 🔭 I’m currently working on e-commerce website<br>
   | 🌱 I’m currently learning React Js & Typescript<br>
