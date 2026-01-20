@@ -63,11 +63,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/basysyaar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="52" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
   </a>
   <img width="12" />
   <a href="https://x.com/Basyar_anq" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="52" height="52" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="52" height="52" alt="Twitter" />
   </a>
   <img width="12" />
   <a href="https://discord.com/users/albasyaar" target="_blank">
@@ -77,16 +77,26 @@
   <a href="https://www.instagram.com/basyar_anq/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="52" height="52" alt="Instagram" />
   </a>
+  <img width="12" />
+  <a href="mailto:basysyaar.anq@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" />
+  </a>
 </div>
 
 <br>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="AlBasyaar's Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBasyaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBasyaar&theme=gotham&hide_border=false" alt="AlBasyaar's Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="AlBasyaar's Top Languages" />
 </div>
 
 <br>
