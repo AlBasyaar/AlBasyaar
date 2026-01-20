@@ -6,8 +6,8 @@
 
 ### 🔍 About me
 <p align="left">
-  | 🔭 I’m currently working on **e-commerce website**<br>
-  | 🌱 I’m currently learning **React Js & Typescript**<br>
+  | 🔭 I’m currently working on e-commerce website<br>
+  | 🌱 I’m currently learning React Js & Typescript<br>
   | 👨‍💻 All of my projects are available at [basysyaar.vercel.app](https://basysyaar.vercel.app)<br>
   | 📫 How to reach me: [basysyaar.anq@gmail.com](mailto:basysyaar.anq@gmail.com)
 </p>
