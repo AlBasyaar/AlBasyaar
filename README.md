@@ -1,17 +1,29 @@
-<img src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif" alt="Night Coding" width="400" />
-
-# Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR
-### A Passionate Web Developer from Indonesia 🇮🇩
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jonty16117/Jonty16117/main/assets/Night-Coding.gif" alt="Night Coding" width="400" />
+  <h1>Hi 👋, I'm BASYSYAAR AL YASSAAR NUUR QODAAR</h1>
+  <h3>A Passionate Web Developer from Indonesia 🇮🇩</h3>
+</div>
 
 ### 🔍 About me
-* 🔭 I’m currently working on **e-commerce website**
-* 🌱 I’m currently learning **React Js & Typescript**
-* 👨‍💻 All of my projects are available at [basysyaar.vercel.app](https://basysyaar.vercel.app)
-* 📫 How to reach me: [basysyaar.anq@gmail.com](mailto:basysyaar.anq@gmail.com)
+<p align="left">
+  | 🔭 I’m currently working on **e-commerce website**<br>
+  | 🌱 I’m currently learning **React Js & Typescript**<br>
+  | 👨‍💻 All of my projects are available at [basysyaar.vercel.app](https://basysyaar.vercel.app)<br>
+  | 📫 How to reach me: [basysyaar.anq@gmail.com](mailto:basysyaar.anq@gmail.com)
+</p>
 
----
+### 📊 Github Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBasyaar&theme=gotham&hide_border=false" height="170" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="170" />
+</p>
+
+### 🐍 Activity
+<p align="left">
+  <img src="https://raw.githubusercontent.com/AlBasyaar/AlBasyaar/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ### 💻 Tech Stack
 <p align="left">
@@ -31,25 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
-
----
-
-### 📊 Github Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="AlBasyaar's Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBasyaar&theme=gotham&hide_border=false" alt="AlBasyaar's Streak" height="170" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="AlBasyaar's Top Languages" height="170" />
-</p>
-
----
-
-### 🐍 Activity
-<p align="left">
-  <img src="https://raw.githubusercontent.com/AlBasyaar/AlBasyaar/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🌐 Socials
 <p align="left">
