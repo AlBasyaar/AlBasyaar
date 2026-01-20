@@ -12,7 +12,23 @@
   | 📫 How to reach me <a href="mailto:basysyaar.anq@gmail.com">basysyaar.anq@gmail.com</a>
 </p>
 
-### 📊 Github Stats
+### Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/basysyaar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  </a>
+  <a href="https://x.com/Basyar_anq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
+  </a>
+  <a href="https://discord.com/users/albasyaar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+  </a>
+  <a href="https://www.instagram.com/basyar_anq/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+  </a>
+</p>
+
+### Github Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlBasyaar&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBasyaar&theme=gotham&hide_border=false" height="170" />
@@ -25,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/AlBasyaar/AlBasyaar/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-### 💻 Tech Stack
+### Languages and Tools:
 <div align="left" style="background:#0d1117; padding:20px; border-radius:12px;">
 
   <p>
@@ -50,20 +66,3 @@
   </p>
 
 </div>
-
-
-### 🌐 Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/basysyaar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
-  </a>
-  <a href="https://x.com/Basyar_anq" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
-  </a>
-  <a href="https://discord.com/users/albasyaar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/basyar_anq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
-  </a>
-</p>
