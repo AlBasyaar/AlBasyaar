@@ -8,8 +8,8 @@
 <p align="left">
   | 🔭 I’m currently working on e-commerce website<br>
   | 🌱 I’m currently learning React Js & Typescript<br>
-  | 👨‍💻 All of my projects are available at https://basysyaar.vercel.app<br>
-  | 📫 How to reach me basysyaar.anq@gmail.com
+  | 👨‍💻 All of my projects are available at <a href="https://basysyaar.vercel.app" target="_blank">basysyaar.vercel.app</a><br>
+  | 📫 How to reach me <a href="mailto:basysyaar.anq@gmail.com">basysyaar.anq@gmail.com</a>
 </p>
 
 ### 📊 Github Stats
