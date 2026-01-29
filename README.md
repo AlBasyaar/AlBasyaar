@@ -9,7 +9,7 @@
   🔭 I’m currently working on <b>e-commerce website</b> <br>
   🌱 I’m currently learning <b>React Js & Typescript</b> <br>
   👨‍💻 All of my projects are available at <a href="https://basysyaar.vercel.app" target="_blank">basysyaar.vercel.app</a> <br>
-  📫 How to reach me <b>basysyaar.anq@gmail.com</b>
+  📫 How to reach me <b><a href="mailto:basysyaar.anq@gmail.com">basysyaar.anq@gmail.com</a></b>
 </p>
 
 ### Socials
