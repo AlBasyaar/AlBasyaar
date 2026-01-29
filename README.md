@@ -6,10 +6,10 @@
 
 ### About me
 <p align="left">
-  🔭 I’m currently working on **e-commerce website** <br>
-  🌱 I’m currently learning **React Js & Typescript** <br>
+  🔭 I’m currently working on <b>e-commerce website</b> <br>
+  🌱 I’m currently learning <b>React Js & Typescript</b> <br>
   👨‍💻 All of my projects are available at <a href="https://basysyaar.vercel.app" target="_blank">basysyaar.vercel.app</a> <br>
-  📫 How to reach me **basysyaar.anq@gmail.com**
+  📫 How to reach me <b>basysyaar.anq@gmail.com</b>
 </p>
 
 ### Socials
